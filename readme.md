@@ -1,4 +1,4 @@
-# Rock-Paper-Scissor Game
+ # Rock-Paper-Scissor Game
 
 A simple and interactive Rock-Paper-Scissor Game built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates beginner‑friendly concepts like DOM manipulation, event handling, game logic, and UI updates.
 
@@ -49,8 +49,6 @@ https://github.com/kaustubhDuke/Rock-Paper-Scissor-Game.git
 
 ---
 
-## 📸 Screenshots
-*(Add your game UI screenshots here)*
 
 ---
 
